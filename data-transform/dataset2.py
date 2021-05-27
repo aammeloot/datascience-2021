@@ -21,7 +21,7 @@ films = {
         'Claudia Puig': 3.0,
         'Mick LaSalle': 2.0
     },
-    'Superman Returns': {
+    'Superman Returns': {\
         'Lisa Rose': 3.5,
         'Gene Seymour': 5.0,
         'Michael Phillips': 3.5,
